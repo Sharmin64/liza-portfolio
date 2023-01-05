@@ -20,6 +20,7 @@
     background-image: url(../images/header_bg.png), url(../images/developer.png);
     background-repeat: no-repeat;
     background-position: bottom right, left;
+    background-size: auto, 100px 500px;
 }
 
 /* header and navigation styles */
